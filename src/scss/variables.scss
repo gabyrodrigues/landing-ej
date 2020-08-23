@@ -1,0 +1,21 @@
+// Breakpoints
+$size-mobile: 768px;
+$size-desktop-small: 1024px;
+$size-desktop-large: 1440px;
+$size-desktop-very-large: 1760px;
+
+// fonts
+$main-font: "Poppins";
+
+//colors
+$main-color: #4a4a4a;
+$alternate-color: #2a8a9a;
+$alternate-color-light: #33c5a3;
+$alternate-color-darker: #57a7b9;
+$highlight-color: #f7b030;
+$color-white: #fff;
+
+$gradient-background: linear-gradient(45deg, rgba(55,108,150,1) 29%, rgba(42,138,154,1) 54%, rgba(51,198,164,1) 100%);
+$gradient-background-nav: linear-gradient(90deg, rgba(55,108,150,1) 0%, rgba(42,138,154,1) 56%);
+
+$spacing: 2rem;
