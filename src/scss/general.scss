@@ -1,0 +1,16 @@
+// general
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: $main-font;
+}
+
+.img {
+    height: auto;
+    max-width: 100%;
+}
+
+//pagina
+.page-wrapper {
+    background: $gradient-background;
+}
